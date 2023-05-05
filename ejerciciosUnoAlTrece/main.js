@@ -1,6 +1,6 @@
 
 
-//IMPORTANTE: Tomar todo el código tal como está y comentarlo antes de empezar 
+//IMPORTANTE: Tomar todo el código tal como está y comentarlo completo antes de empezar 
         //para que no salten los 400 prompts.
 //Ir descomentando cada ejercicio es más eficiente
 //En ejercicio 7 las versiones v.1, v.2, v.3, v.4 no funcionan, 
